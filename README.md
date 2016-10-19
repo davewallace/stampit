@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/stampit-org/stampit-logo/master/stampit-logo.png" alt="stampit" width="160" />
 
-# Stampit [![Travis-CI](https://travis-ci.org/stampit-org/stampit.svg)](https://travis-ci.org/stampit-org/stampit) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stampit-org/stampit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Twitter Follow](https://img.shields.io/twitter/follow/stampit.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/stampit_org)
+# Stampit [![Build Status](https://travis-ci.org/stampit-org/stampit.svg?branch=master)](https://travis-ci.org/stampit-org/stampit) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stampit-org/stampit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Twitter Follow](https://img.shields.io/twitter/follow/stampit.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/stampit_org)
 
 **Create objects from reusable, composable behaviors** 
  
@@ -48,7 +48,7 @@ Stampit uses [three different kinds of prototypal OO](https://vimeo.com/69255635
 
 [![NPM](https://nodei.co/npm/stampit.png)](https://www.npmjs.com/package/stampit)
 
-Browsers: [![CDNJS](https://img.shields.io/badge/cdnjs.com--green.svg)](https://cdnjs.com/libraries/stampit)
+Browsers: [![CDNJS](https://img.shields.io/cdnjs/v/stampit.svg)](https://cdnjs.com/libraries/stampit)
 [![UNPKG](https://img.shields.io/badge/unpkg.com--green.svg)](https://unpkg.com/stampit@latest/dist/stampit.umd.min.js)
 
 **WARNING!** If running in node.js <= v0.12 or IE <= 11 then you'd need to polyfill the `Object.assign`. Like [this](https://github.com/sindresorhus/object-assign), or [that](https://github.com/Financial-Times/polyfill-service/blob/master/polyfills/Object/assign/polyfill.js) ([autodetected](https://cdn.polyfill.io/v2/polyfill.min.js?features=Object.assign)).
